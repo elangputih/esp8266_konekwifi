@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
-const char *ssid = "coba"; //ganti nama hotspot
-const char *pass = "mmmmmmmm";//ganti password
+const char *ssid = "wifi"; //ganti nama hotspot
+const char *pass = "pass";//ganti password
 WiFiClient client;
 void setup()
 {
